@@ -16,7 +16,7 @@ html_temp = """
     """
 
 st.markdown(html_temp, unsafe_allow_html=True)
-st.image("capture.jpg")
+st.image("Capture.jpg")
 st.subheader('by Paul-Yuthi Lajus ')
 
 ### load file
